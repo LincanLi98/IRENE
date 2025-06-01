@@ -1,6 +1,6 @@
 # IRENE: Information Bottleneck Guided Graph Learning for Interpretable EEG Seizure Detection
 
-## 🧠 Project Overview
+## Project Overview
 
 This repository contains the official implementation of **IRENE**, a novel framework for interpretable seizure detection from EEG signals via information-bottleneck guided dynamic graph learning.
 
@@ -138,6 +138,6 @@ If you find this work useful, please kindly cite our paper:
 
 <!-- For questions or collaborations, please contact [Lincan Li](mailto:ll24bb@fsu.edu).-->
 For questions or collaborations, please contact us.
----
+
 
 
