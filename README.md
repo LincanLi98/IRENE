@@ -1,4 +1,4 @@
-# IRENE: Information Bottleneck Guided Graph Learning for Interpretable EEG Seizure Detection
+# IRENE: Interpretable EEG Seizure Detection via Information Bottleneck Guided Graph Learning
 
 ## Project Overview
 
